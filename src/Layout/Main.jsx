@@ -7,7 +7,13 @@ const Main = () => {
     return (
         <div>
             <Navbar/>
+            <div
+            style={{
+                backgroundColor: '#EDF2F6',
+                padding: '0 80px'
+            }}>
             <Outlet/>
+            </div>
             <Footer/>
         </div>
     );

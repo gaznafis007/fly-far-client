@@ -1,0 +1,27 @@
+{
+    "hotels": [
+      {
+        "id": "HTL001",
+        "name": "Pan Pacific Sonargaon",
+        "location": "Dhaka, Bangladesh",
+        "address": "107 Kazi Nazrul Islam Avenue, Dhaka 1215",
+        "rating": 5,
+        "pricePerNight": 12000,
+        "amenities": ["WiFi", "Pool", "Spa", "Restaurant", "Gym"],
+        "roomTypes": [
+          {
+            "type": "Deluxe Room",
+            "capacity": "2 Adults, 1 Child",
+            "price": 12000
+          },
+          {
+            "type": "Executive Suite",
+            "capacity": "2 Adults, 2 Children",
+            "price": 18000
+          }
+        ],
+        "images": ["hotel1.jpg", "room1.jpg", "room2.jpg"]
+      }
+      
+    ]
+  } 

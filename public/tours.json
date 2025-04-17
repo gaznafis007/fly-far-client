@@ -1,0 +1,33 @@
+{
+    "tours": [
+      {
+        "id": "TR001",
+        "type": "INTERNATIONAL",
+        "destination": "Rome, Italy",
+        "duration": "7 Days",
+        "startDate": "2025-04-01",
+        "endDate": "2025-04-07",
+        "price": 150000,
+        "includes": [
+          "Hotel Accommodation",
+          "Airport Transfer",
+          "Breakfast",
+          "Local Guide",
+          "Sightseeing"
+        ],
+        "itinerary": [
+          {
+            "day": 1,
+            "title": "Arrival in Rome",
+            "description": "Airport pickup and hotel check-in"
+          },
+          {
+            "day": 2,
+            "title": "Vatican City Tour",
+            "description": "Visit St. Peter's Basilica and Vatican Museums"
+          }
+        ]
+      }
+      
+    ]
+  } 

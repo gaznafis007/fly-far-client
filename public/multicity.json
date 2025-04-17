@@ -1,0 +1,35 @@
+{
+    "flights": [
+      {
+        "id": "MC001",
+        "segments": [
+          {
+            "from": "DAC",
+            "to": "JED",
+            "fromAirport": "Hazrat Shahjalal Intl Airport (DAC)",
+            "toAirport": "Jeddah Intl (JED)",
+            "departureDate": "2025-04-18",
+            "departureTime": "10:00 AM",
+            "arrivalTime": "02:00 PM",
+            "duration": "4h",
+            "careerName": "Saudi Airlines",
+            "flightNumber": "SV-802"
+          },
+          {
+            "from": "JED",
+            "to": "MED",
+            "fromAirport": "Jeddah Intl (JED)",
+            "toAirport": "Prince Mohammad Bin Abdulaziz Intl (MED)",
+            "departureDate": "2025-04-20",
+            "departureTime": "04:00 PM",
+            "arrivalTime": "05:30 PM",
+            "duration": "1h 30m",
+            "careerName": "Saudi Airlines",
+            "flightNumber": "SV-1134"
+          }
+        ],
+        "customerPrice": 85000,
+        "class": "Economy"
+      }
+    ]
+  } 

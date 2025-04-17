@@ -1,0 +1,34 @@
+{
+    "visas": [
+      {
+        "id": "VS001",
+        "country": "India",
+        "types": [
+          {
+            "name": "Tourist Visa",
+            "duration": "30 Days",
+            "price": 5000,
+            "processingTime": "5-7 Working Days",
+            "requirements": [
+              "Valid Passport",
+              "Photos",
+              "Bank Statement",
+              "Travel Insurance"
+            ]
+          },
+          {
+            "name": "Business Visa",
+            "duration": "1 Year",
+            "price": 12000,
+            "processingTime": "7-10 Working Days",
+            "requirements": [
+              "Valid Passport",
+              "Invitation Letter",
+              "Company Documents",
+              "Bank Statement"
+            ]
+          }
+        ]
+      }
+    ]
+  } 
